@@ -1,2 +1,4 @@
 # VanillaMaps
-Maps for World of Warcraft 1.12.1 (Vanilla-Classic-WoW)
+My collection of the most detailed and clear maps, gathered from various sources.
+# Includes
+-Raid Maps (just for start)
